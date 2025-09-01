@@ -1,4 +1,7 @@
 Target 
+
+https://learn.microsoft.com/en-us/users/b1nl0g/
+
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-100
 https://learn.microsoft.com/en-us/training/paths/sc-100-design-solutions-best-practices-priorities/?source=recommendations
 https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/?source=recommendations
